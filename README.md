@@ -1,11 +1,11 @@
-# Mix-FM
-This is a python implementation of Mix-FM in the following paper:
+# LMLFM
+This is a python implementation of LMLFM in the following paper:
 
-Junjie Liang, Dongkuan Xu, Vasant Honavar. Mix-FM: A Factorization Machine for Predictive Modeling from High Dimensional Longitudinal Data, *ICML'2019* (under review)
+Junjie Liang, Dongkuan Xu, Vasant Honavar. Longitudinal Multi-Level Factorization Machines, *ICML'2019* (under review)
 
 ## Short description
 
-Mix-FM is adapted from Factorization machines (FM) to handle longitudinal data. It extends FM to avoid the need for tunable hyperparameters, handle fixed, random, or mixed effects as needed for predictive modeling from longitudinal data. For full description, please refer to our paper.
+LMLFM extends FM to handle fixed, random, or mixed effects as needed for predictive modeling from longitudinal data. In addition, LMLFM incorporates a small but important change to the way latent factors are associated with the observations that not only enhances the interpretability of the resulting predictive model but also being more efficient with computational complexity strictly linear to the size of training data. For full description, please refer to our paper.
 
 ## Usage
 
