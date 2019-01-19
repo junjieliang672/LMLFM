@@ -1,5 +1,5 @@
 # LMLFM
-This is a python implementation of LMLFM in the following paper:
+This is a python implementation of Longitudinal Multi-Level Factorization Machines (LMLFM) in the following paper:
 
 Junjie Liang, Dongkuan Xu, Vasant Honavar. Longitudinal Multi-Level Factorization Machines, *ICML'2019* (under review)
 
@@ -18,7 +18,7 @@ LMLFM extends FM to handle fixed, random, or mixed effects as needed for predict
 
 ### Format of Input Data
 
-Please find the example of training data in [train.csv](train.csv). Basically, each line is a training sample, which is further  constructed by a vector of features, a subject id (`uid`), an observation id (`iid`) and a label (`label`).
+Please find the example of training data in [train.csv](train.csv). Basically, each line is a training sample, which is constructed by a vector of features, an individual id (`iid`), an observation id (`oid`) and a label (`label`).
 
 ### Demo
 
@@ -26,4 +26,4 @@ Please follow the code in [UseCase](UseCase.ipynb).
 
 ## Contacts
 
-Please do not hesitate to contact me through email <jul672@ist.psu.edu> if you have questions. 
+Please contact me through email <jul672@ist.psu.edu> for any question. 
