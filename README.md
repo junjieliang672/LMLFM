@@ -13,16 +13,12 @@ LMLFM extends FM to handle non-iid. data with longitudinal and/or cluster correl
 To appear ...
 
 ## Citation
+```
 @inproceedings{liang2019lmlfm,
-
   title={LMLFM: Longitudinal Multi-Level Factorization Machines},
-  
   author={Junjie Liang and Dongkuan Xu and Yiwei Sun and Vasant Honavar },
-  
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
-  
   volume={34},
-  
   year={2020}
-  
 }
+```
