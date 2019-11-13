@@ -1,11 +1,7 @@
 # LMLFM
 This is a pytorch implementation of Longitudinal Multi-Level Factorization Machines (LMLFM) in the following paper:
 
-LMLFM: Longitudinal Multi-Level Factorization Machines
-
-**Junjie Liang**, Dongkuan Xu, Yiwei Sun, Vasant Honavar
-
-Proceedings of *the 34th AAAI International Conference on Artificial Intelligence (AAAI'20)*
+**Junjie Liang**, Dongkuan Xu, Yiwei Sun, Vasant Honavar. *LMLFM: Longitudinal Multi-Level Factorization Machines. AAAI'20*
 
 ## Short description
 
