@@ -39,4 +39,4 @@ See `GeneratingSyntheticData.ipynb` for example.
 }
 ```
 
- Please feel free to contact Junjie Liang (jul672@ist.psu.edu](mailto:jul672@ist.psu.edu)) if you have any question.
+ Please feel free to contact [Junjie Liang](mailto:jul672@ist.psu.edu) if you have any question.
