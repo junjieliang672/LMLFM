@@ -8,7 +8,25 @@ This is a pytorch implementation of the following paper:
 LMLFM extends FM to handle non-iid. data with longitudinal and/or cluster correlation. It simultaneously estimates fixed, random effects and performs variable selection in linear time. For full description, please refer to our [paper](https://arxiv.org/abs/1911.04062).
 
 ## Usage
-To appear ...
+This repo contains three important files.
+
+* The file `GeneratingSyntheticData.ipynb` is for generating the simulated data.
+* The file `LMLFM.ipynb` is the main implementation of LMLFM.
+* The file `train.ipynb` shows an example on using LMLFM on the simulated data.
+
+### Input format
+
+The input data set should be Pandas Dataframe containing four fields:
+
+`iid` -> The unique individual ID
+
+`oid` -> The unique observation ID
+
+`X` -> The feature vector.
+
+`y` -> The scalar outcome.
+
+See `GeneratingSyntheticData.ipynb` for example.
 
 ## Citation
 ```
@@ -20,3 +38,5 @@ To appear ...
   year={2020}
 }
 ```
+
+ Please feel free to contact Junjie Liang (jul672@ist.psu.edu](mailto:jul672@ist.psu.edu)) if you have any question.
