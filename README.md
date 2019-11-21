@@ -1,7 +1,7 @@
 # LMLFM
 This is a pytorch implementation of the following paper:
 
-**Junjie Liang**, Dongkuan Xu, Yiwei Sun, Vasant Honavar. *[LMLFM: Longitudinal Multi-Level Factorization Machines](https://arxiv.org/abs/1911.04062). AAAI'20*
+**Junjie Liang**, Dongkuan Xu, Yiwei Sun, Vasant Honavar. *[LMLFM: Longitudinal Multi-Level Factorization Machine](https://arxiv.org/abs/1911.04062). AAAI'20*
 
 ## Short description
 
