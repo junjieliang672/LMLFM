@@ -18,9 +18,9 @@ This repo contains three important files.
 
 The input data set should be Pandas Dataframe containing four fields:
 
-`iid` -> The unique individual ID
+`iid` -> The unique individual ID. This should be `Int` and start from 0.
 
-`oid` -> The unique observation ID
+`oid` -> The unique observation ID. This should be `Int` and start from 0.
 
 `X` -> The feature vector.
 
