@@ -30,11 +30,13 @@ See `GeneratingSyntheticData.ipynb` for example.
 
 ## Citation
 ```
-@inproceedings{liang2019lmlfm,
-  title={LMLFM: Longitudinal Multi-Level Factorization Machines},
-  author={Junjie Liang and Dongkuan Xu and Yiwei Sun and Vasant Honavar },
+@inproceedings{liang2020lmlfm,
+  title={LMLFM: Longitudinal Multi-Level Factorization Machine},
+  author={Liang, Junjie and Xu, Dongkuan and Sun, Yiwei and Honavar, Vasant},
   booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
   volume={34},
+  number={04},
+  pages={4811--4818},
   year={2020}
 }
 ```
